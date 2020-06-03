@@ -8,4 +8,5 @@ created for asking a question from stackoverflow data-science community
 ```pip install -r requirements.txt```
 ## run
 ```python train.py```
+
 ```python predict.py```
