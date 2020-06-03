@@ -1,0 +1,7 @@
+ImageUrl	Category	BinaryCondition_1	BinaryCondition_2
+img7.jpg	A	1	0
+img8.jpg	A	0	1
+img9.jpg	B	1	1
+img10.jpg	B	0	0
+img11.jpg	A	1	0
+img12.jpg	B	1	0
