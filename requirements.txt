@@ -1,5 +1,5 @@
 pandas
 opencv-python
 keras==2.1.6
-tensorflow==2.5.3
+tensorflow==2.11.1
 sklearn
